@@ -1,0 +1,26 @@
+body, html {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+
+
+table, td, th {
+    border: 1px solid #aaa;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+div.form
+{
+    display: block;
+    text-align: center;
+}
+
+
+
